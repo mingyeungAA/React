@@ -2,5 +2,5 @@
 
 ## 목록
 - project1 : to do list 
-- project2
--
+- project2 : calculator
+- project3 : weather app
