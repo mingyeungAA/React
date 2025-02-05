@@ -1,6 +1,6 @@
 # React 프로젝트 모음
 
 ## 목록
-- project1 : to do list 
-- project2 : calculator
-- project3 : weather app
+- project1 : to do list (useState)
+- project2 : calculator (useState)
+- project3 : weather app (API 및 useState)
