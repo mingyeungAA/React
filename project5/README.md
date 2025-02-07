@@ -1,4 +1,4 @@
-# redux 연습 [to do list]
+# redux 연습 [redux - to do list]
 
 ## redux 핵심개념
 1. store(저장소) : 모든 상태를 저장하는 중앙 저장소
