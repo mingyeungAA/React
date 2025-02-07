@@ -40,4 +40,4 @@ const value = useSelector((state) => state.[sliceName].[value]);
 - [value] : 해당 상태 안의 속성을 선택
 
 
-* Provider는 index.js에서 사용!
+\* Provider는 index.js에서 사용!
