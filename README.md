@@ -25,9 +25,12 @@ useState - count
 redux - to do list
 
 ### project6 
+redux - counter app
 
 ### project7  
 
 ### project8 
 
 ### project9 
+
+
