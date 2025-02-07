@@ -28,6 +28,7 @@ redux - to do list
 redux - counter app
 
 ### project7  
+useEffect - 마운트
 
 ### project8 
 
