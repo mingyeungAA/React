@@ -1,4 +1,4 @@
-# redux 연습 [counter app]
+# redux 연습 [redux - counter app]
 
 ## redux 핵심개념
 1. store(저장소) : 모든 상태를 저장하는 중앙 저장소
