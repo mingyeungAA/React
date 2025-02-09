@@ -31,6 +31,7 @@ redux - counter app
 useEffect - 마운트
 
 ### project8 
+미니블로그 - CRUD
 
 ### project9 
 
