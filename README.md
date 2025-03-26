@@ -34,5 +34,11 @@ useEffect - 마운트
 미니블로그 - CRUD
 
 ### project9 
-
+to do list with scss
+- 할일 추가 및 삭제
+- 클릭시 완료표시(취소선)
+- scss스타일링
+- 다크모드
+- 할일 수정
+- 완료/미완료 필터링링
 
