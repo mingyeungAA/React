@@ -1,12 +1,21 @@
 import React, {useState} from 'react';
+import {useDispatch} from 'react-redux';
+import { addTodo } from '../store/todoSlice';
 
 const TodoForm = () => {
     const [text, setText] = useState('');
+    const dispatch = useDispatch();
+
+    const handleAdd = (e) => {
+        e.preventDefault();
+        dispatch(addTodo(text));
+        setText('');
+    }
 
     return (
         <div>
             <input value={text} onChange={e => setText(e.target.value)}/>
-            <button>추가</button>
+            <button onClick={handleAdd}>추가</button>
         </div>
     )
 };

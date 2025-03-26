@@ -1,5 +1,6 @@
 import React from 'react';
 import TodoForm from './component/TodoForm';
+import TodoList from './component/TodoList';
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
       <h2>To Do 앱</h2>
       <button>Dark Mode</button>
       <TodoForm />
-      {/* <TodoList /> */}
+      <TodoList />
     </div>
   );
 }
