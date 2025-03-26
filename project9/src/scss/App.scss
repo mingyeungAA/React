@@ -1,0 +1,14 @@
+.app{
+
+    h2 {
+        color: orange;
+    }
+
+    .todo-item {
+        cursor: pointer;
+
+        &.done span{
+            text-decoration: line-through;
+        }
+    }
+}

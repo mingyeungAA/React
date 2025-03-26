@@ -8,8 +8,10 @@ const TodoForm = () => {
 
     const handleAdd = (e) => {
         e.preventDefault();
-        dispatch(addTodo(text));
-        setText('');
+        if(text.trim()){
+            dispatch(addTodo(text));
+            setText('');
+        }
     }
 
     return (
